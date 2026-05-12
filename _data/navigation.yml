@@ -3,7 +3,7 @@ main:
     url: /cv/
   - title: "Projects"
     url: /projects/
-  - title: "Blog"
-    url: /blog/
+  - title: "Tech-Stack"
+    url: /Tech-Stack/
   - title: "About"
     url: /about/
