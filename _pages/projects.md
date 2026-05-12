@@ -13,7 +13,7 @@ Each project includes a short description and a link to the GitHub repository.
 ## <i class="fa-solid fa-gamepad"></i> USA States Game  
 A Python turtle-based game where the player guesses all 50 U.S. states.  
 Includes CSV data parsing, dynamic text placement, and error handling.  
-🔗 **GitHub:** [USA States Game](https://github.com/marekadamira/USA-States-Game)
+🔗 **GitHub:** [USA States Game](https://github.com/marekadamira/USA-States-Game.git)
 
 ---
 
