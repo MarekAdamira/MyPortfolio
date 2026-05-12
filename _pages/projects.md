@@ -3,7 +3,7 @@ permalink: /projects/
 
 ---
 
-# <i class="fa-solid fa-code"></i> Projects
+
 
 Below is a selection of my personal projects created during my learning journey in Python and other technologies.  
 Each project includes a short description and a link to the GitHub repository.
