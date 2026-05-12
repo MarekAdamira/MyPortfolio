@@ -17,10 +17,20 @@ Includes CSV data parsing, dynamic text placement, and error handling.
 
 ---
 
-## <i class="fa-solid fa-table-cells-large"></i> Hirst Painting Generator  
-A program that generates dot paintings inspired by Damien Hirst using turtle graphics.  
-Focus on loops, color extraction, and grid alignment.  
-🔗 **GitHub:** [Hirst Painting](https://github.com/marekadamira/Hirst-Painting)
+## <i class="fa-solid fa-snake"></i> Snake Game  
+A classic Snake game built in Python using the turtle module.  
+Includes movement logic, collision detection, score tracking, and dynamic food spawning.  
+A great project for practicing loops, object‑oriented programming, and game logic.  
+🔗 **GitHub:** [Snake Game](https://github.com/marekadamira/Snake-Game)
+
+---
+
+## <i class="fa-solid fa-table-tennis-paddle-ball"></i> Pong Game  
+A two‑player Pong game created in Python.  
+Features paddle movement, ball physics, collision detection, scoring, and game reset mechanics.  
+Perfect for learning object‑oriented design and working with real‑time updates in turtle graphics.  
+🔗 **GitHub:** [Pong Game](https://github.com/marekadamira/Pong-Game)
+
 
 ---
 
