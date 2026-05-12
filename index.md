@@ -6,6 +6,10 @@ layout: single
 author_profile: true
 ---
 
-**IT administrator** with experience in enterprise environments, focused on user support, Microsoft 365, and automation. I’m actively learning **Python** and building practical projects — from small games to scripts that simplify everyday tasks. Based in Brussels, I’m developing my technical portfolio and continuously expanding my skills.
+
+
+
+
+I’m Marek — an IT administrator with a business degree, a love for computers, and a curiosity that never really switches off. I enjoy digging into both hardware and software, learning new technologies, and taking on challenges that help me grow. I’m currently based in Brussels, building my technical portfolio and exploring new ways to improve my skills.
 
 Feel free to have a look on my portfolio on the menu above or have a look at my CV.
