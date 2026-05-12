@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Projects"
+
 ---
 
 # <i class="fa-solid fa-code"></i> Projects
