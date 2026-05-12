@@ -10,7 +10,7 @@ I’m an IT administrator with a strong business background and a genuine passio
 I enjoy working with both hardware and software, solving technical issues, and learning new tools that help me grow professionally.  
 Over the years, I’ve gained experience in enterprise environments, supporting users, managing systems, and working with modern Microsoft technologies.  
 I’m self‑reliant, quick to learn, and always ready to take on new challenges.  
-Currently based in Brussels, I’m expanding my technical portfolio and developing my skills through hands‑on projects.
+I’m expanding my technical portfolio and developing my skills through hands‑on projects.
 
 ---
 
