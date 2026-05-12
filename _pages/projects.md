@@ -13,14 +13,6 @@ permalink: /projects/
     <p>🔗 <a href="https://github.com/marekadamira/USA-States-Game">GitHub Repository</a></p>
   </div>
 
-  <!-- Hirst Painting -->
-  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
-    <h3><i class="fa-solid fa-palette"></i> Hirst Painting Generator</h3>
-    <p>A program that generates dot paintings inspired by Damien Hirst using turtle graphics.  
-    Focus on loops, color extraction, and grid alignment.</p>
-    <p>🔗 <a href="https://github.com/marekadamira/Hirst-Painting">GitHub Repository</a></p>
-  </div>
-
   <!-- Crossing Game -->
   <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
     <h3><i class="fa-solid fa-car"></i> Crossing Game</h3>
@@ -35,14 +27,6 @@ permalink: /projects/
     <p>A simple automation tool that reads names from a file and generates personalized letters.  
     Great example of file handling and string manipulation.</p>
     <p>🔗 <a href="https://github.com/marekadamira/Mail-Merge">GitHub Repository</a></p>
-  </div>
-
-  <!-- CSV Analyzer -->
-  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
-    <h3><i class="fa-solid fa-chart-line"></i> CSV Temperature Analyzer</h3>
-    <p>Reads and processes CSV data, extracts temperature values, and performs calculations.  
-    Focus on data parsing and error handling.</p>
-    <p>🔗 <a href="https://github.com/marekadamira/CSV-Temperature-Analyzer">GitHub Repository</a></p>
   </div>
 
   <!-- Snake Game -->
