@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Marek Adamira"
   avatar : "/assets/images/photo.jpg"
-  bio    : "IT administrator with experience in enterprise environments, focused on user support, Microsoft 365, and automation. I’m actively learning Python and building projects"
+  bio    : "The time will pass anyway; we might just as well put that passing time to the best possible use"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
