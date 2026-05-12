@@ -3,49 +3,65 @@ permalink: /projects/
 
 ---
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
+  <!-- USA States Game -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
+    <h3><i class="fa-solid fa-map"></i> USA States Game</h3>
+    <p>A Python turtle-based game where the player guesses all 50 U.S. states.  
+    Includes CSV data parsing, dynamic text placement, and error handling.</p>
+    <p>🔗 <a href="https://github.com/marekadamira/USA-States-Game">GitHub Repository</a></p>
+  </div>
 
-Below is a selection of my personal projects created during my learning journey in Python and other technologies.  
-Each project includes a short description and a link to the GitHub repository.
+  <!-- Hirst Painting -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
+    <h3><i class="fa-solid fa-palette"></i> Hirst Painting Generator</h3>
+    <p>A program that generates dot paintings inspired by Damien Hirst using turtle graphics.  
+    Focus on loops, color extraction, and grid alignment.</p>
+    <p>🔗 <a href="https://github.com/marekadamira/Hirst-Painting">GitHub Repository</a></p>
+  </div>
 
----
+  <!-- Crossing Game -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
+    <h3><i class="fa-solid fa-car"></i> Crossing Game</h3>
+    <p>A Frogger-style game built in Python.  
+    Includes collision detection, dynamic object creation, and increasing difficulty.</p>
+    <p>🔗 <a href="https://github.com/marekadamira/Crossing-Game">GitHub Repository</a></p>
+  </div>
 
-## <i class="fa-solid fa-gamepad"></i> USA States Game  
-A Python turtle-based game where the player guesses all 50 U.S. states.  
-Includes CSV data parsing, dynamic text placement, and error handling.  
-🔗 **GitHub:** [USA States Game](https://github.com/marekadamira/USA-States-Game.git)
+  <!-- Mail Merge -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
+    <h3><i class="fa-solid fa-envelope"></i> Mail Merge Automation</h3>
+    <p>A simple automation tool that reads names from a file and generates personalized letters.  
+    Great example of file handling and string manipulation.</p>
+    <p>🔗 <a href="https://github.com/marekadamira/Mail-Merge">GitHub Repository</a></p>
+  </div>
 
----
+  <!-- CSV Analyzer -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
+    <h3><i class="fa-solid fa-chart-line"></i> CSV Temperature Analyzer</h3>
+    <p>Reads and processes CSV data, extracts temperature values, and performs calculations.  
+    Focus on data parsing and error handling.</p>
+    <p>🔗 <a href="https://github.com/marekadamira/CSV-Temperature-Analyzer">GitHub Repository</a></p>
+  </div>
 
-## <i class="fa-solid fa-snake"></i> Snake Game  
-A classic Snake game built in Python using the turtle module.  
-Includes movement logic, collision detection, score tracking, and dynamic food spawning.  
-A great project for practicing loops, object‑oriented programming, and game logic.  
-🔗 **GitHub:** [Snake Game](https://github.com/marekadamira/Snake-Game)
+  <!-- Snake Game -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
+    <h3><i class="fa-solid fa-snake"></i> Snake Game</h3>
+    <p>A classic Snake game built in Python using the turtle module.  
+    Includes movement logic, collision detection, score tracking, and dynamic food spawning.</p>
+    <p>🔗 <a href="https://github.com/marekadamira/Snake-Game">GitHub Repository</a></p>
+  </div>
 
----
+  <!-- Pong Game -->
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
+    <h3><i class="fa-solid fa-table-tennis-paddle-ball"></i> Pong Game</h3>
+    <p>A two‑player Pong game created in Python.  
+    Features paddle movement, ball physics, collision detection, scoring, and game reset mechanics.</p>
+    <p>🔗 <a href="https://github.com/marekadamira/Pong-Game">GitHub Repository</a></p>
+  </div>
 
-## <i class="fa-solid fa-table-tennis-paddle-ball"></i> Pong Game  
-A two‑player Pong game created in Python.  
-Features paddle movement, ball physics, collision detection, scoring, and game reset mechanics.  
-Perfect for learning object‑oriented design and working with real‑time updates in turtle graphics.  
-🔗 **GitHub:** [Pong Game](https://github.com/marekadamira/Pong-Game)
+</div>
 
-
----
-
-## <i class="fa-solid fa-car"></i> Crossing Game  
-A Frogger-style game built in Python.  
-Includes collision detection, dynamic object creation, and increasing difficulty.  
-🔗 **GitHub:** [Crossing Game](https://github.com/marekadamira/Crossing-Game)
-
----
-
-## <i class="fa-solid fa-envelope"></i> Mail Merge Automation  
-A simple automation tool that reads names from a file and generates personalized letters.  
-Great example of file handling and string manipulation.  
-🔗 **GitHub:** [Mail Merge](https://github.com/marekadamira/Mail-Merge)
-
----
 
 
