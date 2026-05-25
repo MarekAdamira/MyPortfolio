@@ -43,6 +43,12 @@ permalink: /projects/
     <p>A two‑player Pong game created in Python.  
     Features paddle movement, ball physics, collision detection, scoring, and game reset mechanics.</p>
     <p>🔗 <a href="https://github.com/marekadamira/Pong-Game">GitHub Repository</a></p>
+
+  <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
+    <h3><i class="fa-solid fa-table-tennis-paddle-ball"></i> Pong Game</h3>
+    <p>A A simple program that allos you to convert Miles to Kilometers and the opposite way. It shows using TKinters labels, buttons etc.</p>
+    <p>🔗 <a href="https://github.com/MarekAdamira/Mile-and-KM-Converter</a></p>
+    
   </div>
 
 </div>
