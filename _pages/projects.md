@@ -48,7 +48,7 @@ permalink: /projects/
   <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 20px; border-radius: 10px;">
     <h3><i class="fa-solid fa-table-tennis-paddle-ball"></i>Miles to Km Converter</h3>
     <p>A A simple program that allos you to convert Miles to Kilometers and the opposite way. It shows using TKinters labels, buttons etc.</p>
-    <p>🔗 <a href="https://github.com/MarekAdamira/Mile-and-KM-Converter</a></p>
+    <p>🔗 <a href="https://github.com/MarekAdamira/Mile-and-KM-Converter">Github Repository</a></p>
   </div>
 
 </div>
